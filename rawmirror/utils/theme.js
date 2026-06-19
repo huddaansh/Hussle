@@ -1,0 +1,15 @@
+export const T = {
+  bg: '#0A0A0A',
+  card: '#111111',
+  card2: '#181818',
+  border: '#222222',
+  accent: '#FF3B30',
+  accent2: '#FF6B35',
+  gold: '#FFD60A',
+  text: '#FFFFFF',
+  textSub: '#888888',
+  textMuted: '#444444',
+  green: '#30D158',
+  red: '#FF3B30',
+  orange: '#FF9F0A',
+};

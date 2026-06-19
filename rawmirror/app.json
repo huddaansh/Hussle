@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "Hussle",
+    "slug": "hussle",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "backgroundColor": "#0A0A0A"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0A0A0A"
+      },
+      "package": "com.hussle.app"
+    },
+    "plugins": []
+  }
+}
